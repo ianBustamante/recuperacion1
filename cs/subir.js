@@ -1,2 +1,2 @@
-//Ian de Jesus Entzin Bustamante
+//Ian de Jesus Entzin Bustamante.
 //subir archivo
